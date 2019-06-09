@@ -6,6 +6,7 @@ package com.imooc.reflect;
  **/
 public class ClassDemo1 {
     public static void main(String[] args){
+
         Foo cl = new Foo();
         //Foo这个类 也是一个实例对象，class类的实例对象，怎么表示
         //任何一个类都是class的实例对象，这个实例对象有三种表达方式
