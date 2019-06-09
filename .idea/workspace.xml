@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c43da1b-838d-44e3-8d8e-37d267fe1db2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/JavaWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaWork.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sikiedu" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sikiedu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sikiedu/Chapter6/Demo06_InputStreamReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sikiedu/Chapter6/Demo06_InputStreamReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sikiedu/Chapter6/output" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sikiedu/Chapter6/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sikiedu/Chapter6/untitle" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sikiedu/Chapter6/untitle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -213,7 +212,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1440" height="811" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
